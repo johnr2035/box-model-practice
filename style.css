@@ -4,12 +4,14 @@
     border: 1px solid red;
     font-family: 'Oswald', sans-serif;
     text-align: center;
+    
 }
 
 #title {
     background: yellow;
     /*add CSS here*/
-    
+    margin-top: 20px;
+    margin-left: 30px;
 }
 
 #subtitle {
@@ -17,13 +19,31 @@
     color: white;
     /*add CSS here*/
     text-align: center;
+    padding-top: 0px;
+    padding-left: 45px;
+    padding-bottom: 0px;
+    padding-right: 45px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    display: inline ;
-    
+    display: inline;
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 150px;
+    margin-left: 50px;
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    float:left;
 }
+
 
 

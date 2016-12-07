@@ -16,12 +16,14 @@
     background: black;
     color: white;
     /*add CSS here*/
-    
+    text-align: center;
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
+    display: inline ;
     
 }
+
 
